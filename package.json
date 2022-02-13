@@ -1,0 +1,33 @@
+{
+  "name": "ram-chunker",
+  "version": "1.0.0",
+  "description": "Rapid Asymmetric Maximum (RAM) is a high throughput, hash-less, byte shift-resistant content-defined chunking algorithm for data deduplication.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adamdorogi/ram-chunker.git"
+  },
+  "keywords": [
+    "cdc",
+    "content defined chunking",
+    "content dependent chunking",
+    "rapid asymmetric maximum",
+    "ram",
+    "deduplication",
+    "chunking",
+    "chunker",
+    "algorithm"
+  ],
+  "author": "Adam Dorogi-Kaposi",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/adamdorogi/ram-chunker/issues"
+  },
+  "homepage": "https://github.com/adamdorogi/ram-chunker#readme",
+  "devDependencies": {
+    "mocha": "^9.2.0"
+  }
+}
